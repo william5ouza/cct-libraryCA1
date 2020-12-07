@@ -1,3 +1,10 @@
+
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.time.LocalDate;
+
+
 /*
  This project is part of my BsC in Computing at CCT college Dublin
 
@@ -14,4 +21,16 @@ database, so your solution must implement a text file based system to ensure per
  */
 public class Main {
     
+        public static void main (String[] args) throws IOException{
+            
+            System.out.println("HI, Welcome to this Library\n"+"In order to borrow a book, go to reader and select it by name or ID.\n"+"Once you select the reader, you can pick a book and borrow to the reader\n"+ "Enjoy your reading" );
+        
+        new LibraryMenu();
+        
+       
+                
+        }
 }
+
+
+        

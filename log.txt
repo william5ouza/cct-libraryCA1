@@ -1,0 +1,23 @@
+null	Secrets of Linux	Sat Dec 05 21:46:04 GMT 2020
+Zoe Lopes	null	Sat Dec 05 22:24:54 GMT 2020
+William Shield	null	Sat Dec 05 22:28:19 GMT 2020
+William Shield	null	Sat Dec 05 22:35:02 GMT 2020
+Mario Gomez	null	Sat Dec 05 22:42:00 GMT 2020
+2001 William	null	Sat Dec 05 22:46:49 GMT 2020
+Zoe Lopes	null	Sat Dec 05 22:50:52 GMT 2020
+Zoe Lopes	Alghorithms	Sat Dec 05 22:56:07 GMT 2020
+Maria Lynn	null	Sat Dec 05 22:58:17 GMT 2020
+Mario Gomez	null	Sat Dec 05 22:58:26 GMT 2020
+Zoe Lopes	null	Sat Dec 05 23:03:28 GMT 2020
+Mario Gomez	AI artificial inteligence	Sat Dec 05 23:07:56 GMT 2020
+William Shield	null	Sat Dec 05 23:17:07 GMT 2020
+William Shield	null	Sat Dec 05 23:19:39 GMT 2020
+Zoe Lopes	AI artificial inteligence	Sat Dec 05 23:21:41 GMT 2020
+William Shield	AI artificial inteligence	Sat Dec 05 23:26:25 GMT 2020
+Zoe Lopes	AI artificial inteligence	Sat Dec 05 23:27:40 GMT 2020
+William Shield	Java for newbie	Sat Dec 05 23:29:34 GMT 2020
+William Shield	null	Sat Dec 05 23:46:11 GMT 2020
+William Shield	AI artificial inteligence	Sat Dec 05 23:48:27 GMT 2020
+William Shield	null	Sun Dec 06 00:20:40 GMT 2020
+Robert Garcia	AI artificial inteligence	Sun Dec 06 00:47:28 GMT 2020
+William Shield	Java for newbie	2020-12-06	***

@@ -1,0 +1,17 @@
+William Shield	Java for newbie	2020-12-06	***
+William Shield	Alghorithms	2020-12-06	***
+William Shield	AI artificial inteligence	2020-12-06	***
+null	null	***	2020-12-06
+William Shield	null	2020-12-06	***
+null	null	***	2020-12-06
+William Shield	Java for newbie	2020-12-06	***
+William Shield	null	***	2020-12-06
+null	Java for newbie	Sun Dec 06 20:15:33 GMT 2020
+null	Java for newbie	Sun Dec 06 21:18:10 GMT 2020
+William Shield	null	2020-12-06	***
+William Shield	null	***	2020-12-06
+William Shield	null	2020-12-06	***
+William Shield	null	2020-12-06	***
+William Shield	Binary Numbers	2020-12-06	***
+William Shield	Java for newbie	2020-12-07	***
+William Shield	Java for newbie	2020-12-07	***
