@@ -1,0 +1,10 @@
+1001	Binary Numbers	Little Mouro
+1002	The first machine	Steve Jobs
+1003	How I met you	Diana Ross
+1004	Java for newbie	John Java
+1005	Secrets of Linux	Bill Gates
+1006	Android x IOS	Hacker Asandei
+1007	Youtubers	John Smith
+1008	Super Cars	Brian Dungan
+1009	AI artificial inteligence	WIll Farrel
+1010	Alghorithms	Sean Gump
